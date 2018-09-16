@@ -1,6 +1,6 @@
 # Yandex data school 
 
-> из-за ограничений github все перехало на gitlab > https://gitlab.com/user502/yandex-data-school/tree/master
+> из-за ограничений github все перехало на gitlab > https://gitlab.com/user502/yandex-data-school/
 
 Это, скажем так, форк статьи и данных для подготовки к ШАД.
 
